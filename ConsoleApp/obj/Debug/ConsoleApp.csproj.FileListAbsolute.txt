@@ -1,0 +1,36 @@
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\BUS.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\DAL.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\BUS.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\BUS.dll.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\DAL.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\DAL.dll.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\BUS.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\DAL.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\BUS.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\BUS.dll.config
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\DAL.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\DAL.dll.config
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\yukar\OneDrive\Documents\CuocDT\ConsoleApp\obj\Debug\ConsoleApp.pdb

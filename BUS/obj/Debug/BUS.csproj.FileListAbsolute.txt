@@ -1,0 +1,45 @@
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\BUS.dll.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\BUS.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\BUS.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\DAL.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\DAL.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\DAL.dll.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\obj\Debug\BUS.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\BUS\obj\Debug\BUS.pdb
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\BUS.dll.config
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\BUS.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\BUS.pdb
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\DAL.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\EntityFramework.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\DAL.pdb
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\DAL.dll.config
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\EntityFramework.xml
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\obj\Debug\BUS.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\BUS\obj\Debug\BUS.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\BUS.dll.config
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\BUS.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\BUS.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\DAL.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\EntityFramework.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\DAL.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\DAL.dll.config
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\EntityFramework.xml
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\obj\Debug\BUS.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\BUS\obj\Debug\BUS.pdb

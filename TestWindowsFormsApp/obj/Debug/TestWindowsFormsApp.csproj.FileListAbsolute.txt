@@ -1,0 +1,43 @@
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\TestWindowsFormsApp.exe.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\TestWindowsFormsApp.exe
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\TestWindowsFormsApp.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.Properties.Resources.resources
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.exe
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\BUS.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\DAL.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\EntityFramework.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\BUS.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\BUS.dll.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\DAL.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\DAL.dll.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\EntityFramework.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.UserControl1.resources
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.csproj.CopyComplete
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\TestWindowsFormsApp.exe.config
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\TestWindowsFormsApp.exe
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\TestWindowsFormsApp.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\BUS.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\DAL.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\EntityFramework.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\BUS.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\BUS.dll.config
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\DAL.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\DAL.dll.config
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\EntityFramework.xml
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.Properties.Resources.resources
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.UserControl1.resources
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.csproj.CopyComplete
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.exe
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.Form1.resources

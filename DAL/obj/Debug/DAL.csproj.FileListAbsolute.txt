@@ -1,0 +1,38 @@
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\DAL.dll.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\DAL.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\DAL.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.pdb
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\DAL.dll.config
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\DAL.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\DAL.pdb
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\EntityFramework.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\EntityFramework.xml
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\bin\Debug\DAL.dll.config
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\bin\Debug\DAL.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\bin\Debug\DAL.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\bin\Debug\EntityFramework.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\bin\Debug\EntityFramework.xml
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\obj\Debug\DAL.dll
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\obj\Debug\DAL.pdb
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\obj\Debug\DAL.Migrations.CuocDT.resources
+C:\Users\yukar\OneDrive\Documents\CuocDT\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
