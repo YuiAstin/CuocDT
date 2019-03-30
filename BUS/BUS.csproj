@@ -57,6 +57,7 @@
     <Compile Include="Helpers\ExtensionMethods\SIMExtensionMethod.cs" />
     <Compile Include="Helpers\PhoneChargesCalculator.cs" />
     <Compile Include="Procedures\SIMRegistrationProcedure.cs" />
+    <Compile Include="Repositories\PhoneCallRespository.cs" />
     <Compile Include="Views\BillView.cs" />
     <Compile Include="Views\CustomerView.cs" />
     <Compile Include="Views\EmployeeView.cs" />

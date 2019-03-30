@@ -11,6 +11,7 @@ using BUS.Repositories;
 using DAL.Models;
 using BUS.Helpers.ExtensionMethods;
 using BUS.Views;
+using BUS.Helpers;
 
 namespace TestWindowsFormsApp
 {
@@ -51,15 +52,33 @@ namespace TestWindowsFormsApp
             
             if (dataGridView1.CurrentCell != null)
             {
-                int a = dataGridView1.CurrentCell.RowIndex;
-                billViews[a].PayDate = DateTime.Now.ToString();
-                billRepository.AddBill(BillExtensionMethod.ConvertToBill(billViews[a]));
+                int at = dataGridView1.CurrentCell.RowIndex;
+                billViews[at].PayDate = DateTime.Now.ToString();
+                billRepository.AddBill(BillExtensionMethod.ConvertToBill(billViews[at]));
             }
             
         }
         private void button3_Click(object sender, EventArgs e)
         {
-
+            DateTime a, b;
+            if(dataGridView1.CurrentCell != null)
+            {
+                int id = int.Parse(dataGridView1.CurrentCell.OwningRow.Cells[0].Value.ToString());
+                int at = dataGridView1.CurrentCell.RowIndex;
+                double tong = 0;
+                PhoneChargesCalculator why = new PhoneChargesCalculator();
+                Bill biru = BillExtensionMethod.ConvertToBill(billViews[at]);
+                PhoneCallsRepository prep = new PhoneCallsRepository();
+                List<PhoneCall> phonelist = prep.FindSimID(int.Parse(billViews[at].SIMId));
+                for(int i = 0; i<phonelist.Count;i++)
+                {
+                    a = phonelist[i].StartingTime;
+                    b = phonelist[i].EndingTime;
+                    tong += why.Calculate(a, b);
+                }
+                biru.Value = decimal.Parse(tong.ToString());
+                
+            }
         }
 
         

@@ -36,7 +36,7 @@ namespace BUS.Repositories
 		{
 			context.Bills.Add(bill);
 			context.SaveChanges();
-		}
+		}        
 
 		public void RemoveBill(int id)
 		{
