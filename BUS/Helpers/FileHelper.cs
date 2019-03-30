@@ -38,8 +38,10 @@ namespace BUS.Helper
 				};
 				lines.Add(line);
 			}
+            fs.Close();
+            sr.Close();
 			return lines;
-		}
+		}       
 
 		public static void EraseFile()
 		{

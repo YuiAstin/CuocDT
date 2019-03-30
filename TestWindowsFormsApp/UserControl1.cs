@@ -81,6 +81,14 @@ namespace TestWindowsFormsApp
             }
         }
 
-        
+        private void button4_Click(object sender, EventArgs e)
+        {
+            
+            int startID = int.Parse(textBox1.Text);
+            int endID = int.Parse(textBox2.Text);
+            int Line = int.Parse(textBox3.Text);
+            Randommizer.Ranlog(startID, endID, Line);
+            billRepository.CalculateBillsFromFile();
+        }
     }
 }
