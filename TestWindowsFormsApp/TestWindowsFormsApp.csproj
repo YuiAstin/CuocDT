@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Randommizer.cs" />
     <Compile Include="DShoadon.cs">
       <SubType>Form</SubType>
     </Compile>
