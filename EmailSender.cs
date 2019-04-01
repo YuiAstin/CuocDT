@@ -16,7 +16,7 @@ namespace BUS.Helpers
         {
             var message = new MimeMessage();
             message.From.Add(new MailboxAddress("youmu122@gmail.com"));
-            message.To.Add(new MailboxAddress("carameruu@gmail.com"));
+            message.To.Add(new MailboxAddress(email));
             message.Subject = "NO REPLY";
 
             message.Body = new TextPart("plain")
