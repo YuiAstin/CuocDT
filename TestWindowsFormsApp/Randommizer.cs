@@ -21,9 +21,9 @@ namespace TestWindowsFormsApp
                 int a=gener.Next(startID, endID);                
                 fl.SIMId = a;                
                 fl.StartingTime = Randate(sta, end);
-                sta = sta.AddDays(double.Parse(rando.Next(1,10).ToString()));
+                sta = sta.AddDays(double.Parse(rando.Next(1,2).ToString()));
                 fl.EndingTime = end;
-                end = end.AddDays(double.Parse(rando.Next(2,30).ToString()));
+                end = end.AddDays(double.Parse(rando.Next(3,30).ToString()));
                 FileHelper.WriteToFile(fl);
                 line -= 1;
             }
