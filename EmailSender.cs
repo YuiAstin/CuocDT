@@ -1,31 +1,43 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Net.Mail;
+using MailKit.Net.Pop3;
+using MailKit;
+using MimeKit;
 
 namespace BUS.Helpers
 {
 	public static class EmailSender
 	{
-		public static void SendMessage(string email, string message)
-		{
-			SmtpClient smtpClient = new SmtpClient("mail.hostdomain.com", 25); //reconfig mail host vd: mail.google.com
+		public static void SendMessage(string email,string messages)
+        {
+            var message = new MimeMessage();
+            message.From.Add(new MailboxAddress("youmu122@gmail.com"));
+            message.To.Add(new MailboxAddress("carameruu@gmail.com"));
+            message.Subject = "NO REPLY";
 
-			smtpClient.Credentials = new System.Net.NetworkCredential("admin@mail.com", "IDpassword"); //reconfig ID and password 
-			smtpClient.UseDefaultCredentials = true;
-			smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
-			smtpClient.EnableSsl = true;
+            message.Body = new TextPart("plain")
+            {
+                Text = messages
+            };
 
-			MailMessage mail = new MailMessage();
-			mail.Body = message;
+            using (var client = new MailKit.Net.Smtp.SmtpClient())
+            {
+                // For demo-purposes, accept all SSL certificates (in case the server supports STARTTLS)
+                
 
-			//Setting From , To and CC if needed
-			mail.From = new MailAddress("admin@mail.com", "MyWeb Site"); //reconfig ID, displayed name can be reconfigure but not needed
-			mail.To.Add(new MailAddress(email));
-			//mail.CC.Add(new MailAddress("thu3@mail.com"));
-			smtpClient.Send(mail);
-		}
+                client.ServerCertificateValidationCallback = (s, c, h, e) => true;
+                client.Connect("smtp.gmail.com", 465, true);
+                // Note: only needed if the SMTP server requires authentication
+                client.Authenticate("youmu122@gmail.com", "Ninja950*");
+                
+                client.Send(message);
+                client.Disconnect(true);
+            }
+
+        }        
 	}
 }
